@@ -169,7 +169,3 @@ Also custom nodes:
 | **Image 2**        | **Image 2 - Van Gogh Style**       |
 | ![Original3](./examples/input/3.png) | ![Van Gogh3](./examples/output/3.png) |
 | **Image 3**        | **Image 3 - Van Gogh Style**       |
-| ![Original2](./examples/input/4.png) | ![Van Gogh2](./examples/output/4.png) |
-| **Image 4**        | **Image 4 - Van Gogh Style**       |
-| ![Original3](./examples/input/5.png) | ![Van Gogh3](./examples/output/5.png) |
-| **Image 5**        | **Image 5 - Van Gogh Style**       |
